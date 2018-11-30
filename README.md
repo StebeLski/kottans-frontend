@@ -18,5 +18,16 @@ I'm learned about how to redirecting input and output in command line, and saw h
 
 ***
 
+***
+## Task 2
+## Git Collaboration
+I'm refresh in memory what i learned in 0's task of github. Learned few new git commands and few new arguments to commands that i already know.
+Happy to finish basic task section.
+![versionControl](https://github.com/StebeLski/kottans-frontend/blob/master/img/versionControl3_1.PNG)
+***
+![gitHubForCollab](https://github.com/StebeLski/kottans-frontend/blob/master/img/gitGithubCollab.PNG)
+
+***
+
 
 

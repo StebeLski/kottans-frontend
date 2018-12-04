@@ -12,13 +12,11 @@ Repository for kottans frontend courses
 - [ ] Responsive Layouts *doing now*
 - [ ] JavaScript Basics
 - [ ] Document Object Model
-Practice:
 - [ ] Building a Tiny JS World
 - [ ] Object-Oriented JavaScript
 - [ ] OOP exercise
 - [ ] Memory – Pair Game
 - [ ] Friends App
-Optional:
 - [ ] Offline Web Applications
 - [ ] Website Performance Optimization
 
@@ -47,6 +45,19 @@ Happy to finish basic task section.
 ![gitHubForCollab](https://github.com/StebeLski/kottans-frontend/blob/master/02_task_git_collaboration/gitGithubCollab.PNG)
 
 ***
+
+***
+## Task 3
+## Intro to HTML and CSS
+For me new was information about css rules of inheritance and cascading. I'm surprised how skilfully css can be used. In future i will use semantic-right html tags and intend to write css code more cleaner
+![introToHtmlCss](https://github.com/StebeLski/kottans-frontend/blob/master/03_task_html_css_intro/introToHtmlCss.PNG)
+***
+![htmlBasic](https://github.com/StebeLski/kottans-frontend/blob/master/03_task_html_css_intro/htmlBasic.PNG)
+***
+![cssBasic](https://github.com/StebeLski/kottans-frontend/blob/master/03_task_html_css_intro/cssBasic.PNG)
+
+***
+
 
 
 

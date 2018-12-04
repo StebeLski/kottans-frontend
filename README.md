@@ -8,13 +8,13 @@ Repository for kottans frontend courses
 ## Task 0
 ## Git and GitHub
 Git and Github system are new technology for me. I'm happy to learn and start use it!
-![howtoUseGit](https://github.com/StebeLski/kottans-frontend/blob/master/img/howtouseGit.PNG)
+![howtoUseGit](https://github.com/StebeLski/kottans-frontend/blob/master/00_howToUseGitHub/howtouseGit.PNG)
 
 ***
 ## Task 1
 ## Linux CLI, and HTTP
 I'm learned about how to redirecting input and output in command line, and saw how powerful tool is command line. Also remembered the concept of HTTP
-![commandLine](https://github.com/StebeLski/kottans-frontend/blob/master/img/commandLine.PNG)
+![commandLine](https://github.com/StebeLski/kottans-frontend/blob/master/01_task_linux_cli/commandLine.PNG)
 
 ***
 
@@ -23,9 +23,9 @@ I'm learned about how to redirecting input and output in command line, and saw h
 ## Git Collaboration
 I'm refresh in memory what i learned in 0's task of github. Learned few new git commands and few new arguments to commands that i already know.
 Happy to finish basic task section.
-![versionControl](https://github.com/StebeLski/kottans-frontend/blob/master/img/versionControl3_1.PNG)
+![versionControl](https://github.com/StebeLski/kottans-frontend/blob/master/02_task_git_collaboration/versionControl3_1.PNG)
 ***
-![gitHubForCollab](https://github.com/StebeLski/kottans-frontend/blob/master/img/gitGithubCollab.PNG)
+![gitHubForCollab](https://github.com/StebeLski/kottans-frontend/blob/master/02_task_git_collaboration/gitGithubCollab.PNG)
 
 ***
 

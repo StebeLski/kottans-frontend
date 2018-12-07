@@ -9,8 +9,8 @@ Repository for kottans frontend courses
 - [x] Linux CLI, HTTP [#done](https://github.com/StebeLski/kottans-frontend/tree/master/01_task_linux_cli)
 - [x] Git for Team Collaboration [#done](https://github.com/StebeLski/kottans-frontend/tree/master/02_task_git_collaboration)
 - [x] Front-End Basics [#done](https://github.com/StebeLski/kottans-frontend/tree/master/03_task_html_css_intro)
-- [ ] Responsive Layouts *doing now*
-- [ ] JavaScript Basics
+- [ ] Responsive Layouts [#done](https://github.com/StebeLski/kottans-frontend/tree/master/04_task_responsive_web_design)
+- [ ] JavaScript Basics *doing now*
 - [ ] Document Object Model
 - [ ] Building a Tiny JS World
 - [ ] Object-Oriented JavaScript
@@ -49,7 +49,7 @@ Happy to finish basic task section.
 ***
 ## Task 3
 ## Intro to HTML and CSS
-For me new was information about css rules of inheritance and cascading. I'm surprised how skilfully css can be used. In future i will use semantic-right html tags and intend to write css code more cleaner
+For me new was information about css rules of inheritance and cascading. I'm surprised how skilfully css can be used. In future i will use semantic-right html tags and intend to write css code more cleaner.
 ![introToHtmlCss](https://github.com/StebeLski/kottans-frontend/blob/master/03_task_html_css_intro/introToHtmlCss.PNG)
 ***
 ![htmlBasic](https://github.com/StebeLski/kottans-frontend/blob/master/03_task_html_css_intro/htmlBasic.PNG)
@@ -58,6 +58,13 @@ For me new was information about css rules of inheritance and cascading. I'm sur
 
 ***
 
+## Task 4
+## Responsive Web Design
+I'm learning much new information about responsive web design. Surprised that responsive design is an art -- not science. In future i will use 
+responsive designs patterns. 
+![responsiveWeb](https://github.com/StebeLski/kottans-frontend/blob/master/04_task_responsive_web_design/responsiveWebDesignFundamentals.PNG)
+***
+![froggyBox](https://github.com/StebeLski/kottans-frontend/blob/master/04_task_responsive_web_design/flexBoxFroggy.PNG)
 
-
+***
 
